@@ -1,0 +1,33 @@
+10:DEC1 Hash Table
+16:msg9 Lovely TAs
+20:msg10 The End
+22:StringKey1 data Structures
+22:Alice23 Cryptography
+23:31770 Professor Kupcu
+35:ABC7 Hash Map
+43:11880 Dictionary
+48:Bob2303 Security and Privacy 
+49:StrKey2 Beyaz Show 
+
+10:DEC1 Hash Table
+16:msg9 Lovely TAs
+20:msg10 The End
+22:StringKey1 data Structures
+22:Alice23 Cryptography
+22:201ADF3v ID
+23:31770 Professor Kupcu
+35:ABC7 Hash Map
+43:11880 Dictionary
+48:Bob2303 Security and Privacy 
+49:StrKey2 Beyaz Show 
+51:Ankara16 Center of Turkey
+
+Size of the table is:12
+
+False 
+
+
+
+ 
+
+

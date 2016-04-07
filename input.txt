@@ -1,0 +1,15 @@
+StringKey1 data Structures 
+StrKey2    Beyaz Show 
+Alice_23   Cryptography
+Bob2303    Security and Privacy
+ABC7       Hash Map
+DEC1       Hash Table
+11880      Dictionary
+31770      Professor Kupcu
+msg9       Lovely TAs
+msg10      The End
+
+put Ankara16 Center of Turkey
+put 201ADF3v ID
+size
+containsKey 12334
